@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "backend social network ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Matt-Carpenter-12/Social-Network-API.git"
+  },
+  "author": "Matt Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt-Carpenter-12/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Matt-Carpenter-12/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  }
+}
